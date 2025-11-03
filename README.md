@@ -32,7 +32,7 @@
 - Full Stack Dev @ [Wealthstack](https://wealthstack.ca/)
   - Secure financial apps with React and Django
   - Sophiscated RBAC and encryption
-  - Transition codebase Js -> TS 
+  - Transition codebase JS -> TS 
 - Solo Developer @ [YRDSB Teach Assist Pro](https://github.com/PegasisForever/YRDSB-Teach-Assist-Mobile)
   - Used by 11,000+ students
   - Flutter & Kotlin
