@@ -1,5 +1,5 @@
 - 2026 SWE @ McMaster University
-- Looking for full time jobs! [resume](https://github.com/PegasisForever/PegasisForever/blob/main/Jianqing_s_Resume.pdf)
+- Looking for full time jobs! [resume](https://raw.githubusercontent.com/PegasisForever/PegasisForever/main/Jianqing_s_Resume.pdf)
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pegasisforever&show_icons=true&locale=en" alt="pegasisforever" height="170" />
